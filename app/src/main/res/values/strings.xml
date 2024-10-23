@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">baitapmrhuy</string>
+    <string name="my_shared_pref">app_shared_pref</string>
+    <string name="saved_user_name">saved_username</string>
+    <string name="saved_user_age">saved_userage</string>
+    <string name="saved_check">saved_checked</string>
+</resources>
